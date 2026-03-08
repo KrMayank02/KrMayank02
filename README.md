@@ -1,7 +1,7 @@
 
 ## Hello Friends 👋
 
-I enjoy doing **Open-Source contribution** on GitHub, have contributed to** multiple DevOps & Cloud related Projects** covering topics like Jenkins, GitHub Actions, Kubernetes, AWS-CodePipeline, EKS, Terrraform, etc.
+I enjoy doing **Open-Source contribution** on GitHub, have contributed to **multiple DevOps & Cloud related Projects** covering topics like Jenkins, GitHub Actions, Kubernetes, AWS-CodePipeline, EKS, Terrraform, etc.
 
 
 ## 🚀 About Me
