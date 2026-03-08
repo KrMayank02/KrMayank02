@@ -6,7 +6,7 @@
 
 🚀Having strong knowledge base and intensive hands-on experience in **DevOps, DevSecOps and AWS-DevOps Methodology**, I apply them to the Containerized & Cloud-native environments where software quality meets infrastructure reliability.
 
-🚀My deep background in QA and **"Quality-First"** mindset, gives me a unique perspective on DevOps - I don’t just build pipelines; I ensure they are **resilient, secure, and deliver high-quality** code at speed. I am passionate about **Infrastructure as Code (IaC), Container Orchestration, and Automating** the entire release lifecycle using Tools & Technologies like Jenkins (CI/CD), Ansible, Terraform, Docker, Kubernetes, Prometheus, AWS DevOps, ELK etc. 
+🚀My deep background in QA and **"Quality-First"** mindset, gives me a unique perspective on DevOps - I don’t just build pipelines; I ensure they are **resilient, secure, and deliver high-quality** code at speed. I am passionate about **Infrastructure as Code (IaC), Container Orchestration, and Automating (CI/CD)** the entire release lifecycle using Tools & Technologies like Jenkins, Ansible, Terraform, Docker, Kubernetes, Prometheus, AWS DevOps, ELK etc. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
