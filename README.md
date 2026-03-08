@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hello Friends 👋
 
-<!--
-**KrMayank02/KrMayank02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🚀Experienced Technology Leader with 14-years of career in Software Quality Engineering, DevOps & Cloud. With a recently completed Post Graduate Degree in DevOps from Caltech CTME and a CKA (Certified Kubernetes Administrator) certification, I am bridging the gap between development, testing, and production.
+
+🚀Realized that the future of quality is in automation and robust infrastructure, I pivoted my focus into DevOps to apply my expertise in system reliability to containerized and cloud-native environments where software quality meets infrastructure reliability.
+
+🚀My deep background in QA and "Quality-First" mindset, gives me a unique perspective on DevOps - I don’t just build pipelines; I ensure they are resilient, secure, and deliver high-quality code at speed. I am passionate about Infrastructure as Code (IaC), container orchestration, and automating the entire release lifecycle and have gained expertise in DevOps methodology and tools like Jenkins (CI/CD), Ansible, Terraform, Docker, Kubernetes, Prometheus, AWS DevOps, ELK etc. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
