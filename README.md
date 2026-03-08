@@ -6,7 +6,7 @@ I enjoy doing **Open-Source contribution** on GitHub, have contributed to **mult
 
 ## 🚀 About Me
 
-💠 Experienced Technology Leader with 14-years of career in **Software Quality Engineering, DevOps & Cloud**. With a recently completed **Post Graduate Program in DevOps from Caltech CTME** and a **CKA (Certified Kubernetes Administrator)** certification, I am **bridging the gap between development, testing, and production.**
+💠 Experienced Technology Leader with 14+ years of career in **Software Quality Engineering, DevOps & Cloud**. With a recently completed **Post Graduate Program in DevOps from Caltech CTME** and a **CKA (Certified Kubernetes Administrator)** certification, I am **bridging the gap between development, testing, and production.**
 
 💠 Having strong knowledge base and intensive hands-on experience in **DevOps, DevSecOps and AWS-DevOps Methodology**, I apply them to the Containerized & Cloud-native environments where software quality meets infrastructure reliability.
 
