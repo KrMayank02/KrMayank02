@@ -1,5 +1,8 @@
 ## Hello Friends 👋
 
+I like to do Open-Source contribution on GitHub, have contributed to multiple DevOps & Cloud related comprehensive Projects covering topics like Jenkins, GitHub Actions, Kubernetes, AWS-CodePipeline, EKS, Terrraform, etc.
+
+
 ## 🚀 About Me
 
 💠 Experienced Technology Leader with 14-years of career in **Software Quality Engineering, DevOps & Cloud**. With a recently completed **Post Graduate Program in DevOps from Caltech CTME** and a **CKA (Certified Kubernetes Administrator)** certification, I am **bridging the gap between development, testing, and production.**
@@ -26,6 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" title="Helm" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash" width="40" height="40"/>
 </p>
+
 
 ## 🌐 Connect with Me
 
