@@ -8,7 +8,7 @@ I enjoy doing **Open-Source contribution** on GitHub, have contributed to **mult
 
 💠 Experienced Technology Professional with 14+ years of career in **Software Quality Engineering, DevOps & Cloud**. With a recently completed **Post Graduate Program in DevOps from Caltech CTME** , a **CKA (Certified Kubernetes Administrator)** certification and a **Hashicorp Certified Terraform Associate** certification, I am **bridging the gap between development, testing, and production.**
 
-💠 Having strong knowledge base and intensive hands-on experience in **DevOps, DevSecOps and AWS-DevOps Methodology**, I apply them to the Containerized & Cloud-native environments where software quality meets infrastructure reliability.
+💠 Having strong knowledge base and intensive hands-on experience in **DevOps, DevSecOps and AWS-DevOps Methodology**, I apply them to the Containerized & Cloud-native environments where software quality meets infrastructure reliability & operations.
 
 💠 My deep background in QA and **"Quality-First"** mindset, gives me a unique perspective on DevOps - I don’t just build pipelines; I ensure they are **resilient, secure, and deliver high-quality** code at speed. I am passionate about **Infrastructure as Code (IaC), Container Orchestration, and Automating (CI/CD)** the entire release lifecycle using Tools & Technologies like Jenkins, Ansible, Terraform, Docker, Kubernetes, Prometheus, AWS DevOps, ELK etc. 
 
