@@ -35,4 +35,4 @@ I enjoy doing **Open-Source contribution** on GitHub, have contributed to **mult
 ## 🌐 Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-mayank-827aa2100/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.mayank2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kr.mayankk2026@gmail.com)
